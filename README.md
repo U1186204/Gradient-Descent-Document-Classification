@@ -1,5 +1,5 @@
 [![CI/CD Pipeline](https://img.shields.io/github/actions/workflow/status/U1186204/Gradient-Descent-Document-Classification/ci.yml?branch=main&style=for-the-badge&logo=githubactions&logoColor=white&label=CI%2FCD%20Pipeline)](https://github.com/U1186204/Gradient-Descent-Document-Classification/actions/workflows/ci.yml)
-
+[![GitHub Repo](https://img.shields.io/badge/View_on-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/U1186204/Gradient-Descent-Document-Classification)
 # Gradient-Descent-Document-Classification
 
 ### Abstract
